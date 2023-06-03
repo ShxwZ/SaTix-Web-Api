@@ -5,6 +5,15 @@
 
 ---
 
+## Índice
+- [Descripción](#descripción)
+- [Requisitos](#requisitos)
+- [Manual de Instalación](#manual-de-instalación)
+- [Manual de usuario](#manual-de-usuario)
+- [Dependencias](#dependencias)
+- [Menciones](#menciones)
+- [Licencia](#licencia)
+
 ## Descripción
  
 ## Requisitos
