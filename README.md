@@ -1,4 +1,6 @@
-# SaTix-Web-Api
+<p align="center">
+  <img src="logo.png" alt="SaTix">
+</p>
 TFG Part 1
 
 
