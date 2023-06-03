@@ -5,7 +5,13 @@
 
 ---
 
-TFG Part 1
+## Descripción
+ 
+## Requirimientos
+ 
+## Dependencias
+ 
+## Menciones
 
 
 ## Licencia
