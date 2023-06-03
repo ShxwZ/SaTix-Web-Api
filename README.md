@@ -15,7 +15,7 @@
 - [Licencia ⚖️](#licencia)
 
 ## Descripción
- El proyecto SaTix (Safe-Tickets) se ha desarrollado como proyecto de final de curso para el curso de desarrollo de aplicaciones multiplataforma en el año 2023 para el I.E.S Monte Naranco.
+ El proyecto SaTix (Safe-Tickets) se ha desarrollado como proyecto para el curso de desarrollo de aplicaciones multiplataforma en el año 2023 del I.E.S Monte Naranco.
 
 Se basa en las necesidades del ámbito de eventos, en el cual se encuentra el problema de la reventa de entradas.
 En cuanto las tecnologías que existen actualmente en el mercado no existen una que garantice la exclusividad de dicha entrada, en la cual solo el usuario que compro la entrada no se pueda replicar o transferir. Por culpa de este hecho, existen grupos de personas que compran un número de entradas y las venden a otra gente más caras o incluso vender a dos personas la misma entrada.
