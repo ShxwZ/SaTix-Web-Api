@@ -55,20 +55,22 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 
 - Login
 
+
 <p align="center">
-  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/6d3c4618-f605-45b1-8a7c-780aefbb1407" alt="Login" width="500">
+  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/8f732ca9-01f2-43f7-bacf-cd9b07c9dcf6" alt="Login" width="500">
 </p>
 
 - Gestion eventos
 
+
 <p align="center">
-  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/b7802746-bb12-462e-8555-4c0d9f245be5" alt="Gestion-eventos" width="500">
+  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/405df1ae-3272-42e8-a542-9eca3f7566f4" alt="Gestion-eventos" width="500">
 </p>
 
 - SaTix-Core
 
 <p align="center">
-  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/9c8c92f5-3c2a-45d9-a3d4-b79f42dc240a" alt="SaTix-Core" width="500">
+  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/10561f9b-f5b8-4c4e-95cc-52d0eb26f157" alt="SaTix-Core" width="500">
 </p>
 
 ## Webgrafía
