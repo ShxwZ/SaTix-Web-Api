@@ -11,9 +11,9 @@
 - [Manuales](#Manuales)
 - [Dependencias](#dependencias)
 - [Menciones](#menciones)
-- [Licencia](#licencia)
 - [Memoria del proyecto](#Memoria-del-proyecto)
 - [Posibles ampliaciones](#Posibles-ampliaciones)
+- [Licencia](#licencia)
 
 ## Descripción
  
