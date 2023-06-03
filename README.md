@@ -39,7 +39,7 @@ Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto
 - Budiyev, Y. (s.f.). Code scanner. Obtenido de [Github](https://github.com/yuriy-budiyev/code-scanner)
 - Caldwell, C. (4 de Julio de 2011). How to export html table to excel using javascript. Obtenido de [StackOverflow](https://stackoverflow.com/questions/6566831/how-to-export-html-table-to-excel-using-javascript)
 - Contributors. (s.f.). Repositories. Recuperado el 2023, de [Maven Repositories](https://mvnrepository.com/)
-- Ekuan, M., Bouska, J., Alberts, M., Sherer, T., & others, a. (03 de Marzo de 2023). RESTful web API design. Recuperado el 2023, de [Learn Microsoft](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- Ekuan, M., Bouska, J., Alberts, M., Sherer, T., & others, a. (03 de Marzo de 2023). RESTful web API design, de [Learn Microsoft](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - Jetbrains Team. (21 de Abril de 2023). Intellij IDE Spring. Obtenido de [Jetbrains](https://www.jetbrains.com/help/idea/spring-support.html)
 - Kowal, & Grzegorz. (s.f.). Cross-platform Java executable wrapper. Recuperado el 2023, de [Launch4j](https://launch4j.sourceforge.net/)
 - López, L. M. (s.f.). Curso de Introducción a Thymeleaf. Recuperado el 2023, de [OpenWebinars](https://openwebinars.net/academia/portada/introduccion-thymeleaf/)
