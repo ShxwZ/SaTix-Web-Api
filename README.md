@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo.png" alt="SaTix" width="250">
+  <img src="logo.png" alt="SaTix" width="220">
 </p>
 
 ## Índice
