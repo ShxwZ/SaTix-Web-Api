@@ -5,7 +5,7 @@
 
 ## Índice
 - [Descripción 📄](#descripción)
-- [Funcionalidades principales ⚙](Funcionalidades-Principales)
+- [Funcionalidades principales ⚙](#Funcionalidades-Principales)
 - [Requisitos para la instalación y puesta en marcha 🔑](#Requisitos-para-la-instalación-y-puesta-en-marcha)
 - [Dependencias 🔗](#dependencias)
 - [Webgrafía 🌐](#Webgrafía)
