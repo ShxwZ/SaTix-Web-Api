@@ -7,12 +7,15 @@
 
 ## Descripción
  
-## Requirimientos
+## Requisitos
+
+## Manual de Instalación
+
+## Manual de usuario
  
 ## Dependencias
  
 ## Menciones
-
 
 ## Licencia
 [![Licencia: CC BY-NC 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
