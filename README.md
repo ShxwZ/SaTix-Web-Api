@@ -12,6 +12,7 @@
 - [Webgrafía 🌐](#Webgrafía)
 - [Memoria del proyecto 🖋](#Memoria-del-proyecto)
 - [Posibles ampliaciones 🔧](#Posibles-ampliaciones)
+- [Memoria 🧠](#memoria)
 - [Licencia ⚖️](#licencia)
 
 ## Descripción
@@ -78,7 +79,7 @@ Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto
 - W3Schools. (s.f.). Tutoriales CSS. Recuperado el 2023, de [W3Schools](https://www.w3schools.com/css/)
 - W3Schools. (s.f.). Tutoriales HTML. Recuperado el 2023, de [W3Schools](https://www.w3schools.com/html/)
 
-## Memoria del proyecto
+## Memoria
 
 ## Posibles ampliaciones
 
