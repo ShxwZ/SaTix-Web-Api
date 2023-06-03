@@ -5,6 +5,7 @@
 
 ## Índice
 - [Descripción 📄](#descripción)
+- [Funcionalidades principales ⚙](Funcionalidades-Principales)
 - [Requisitos para la instalación y puesta en marcha 🔑](#Requisitos-para-la-instalación-y-puesta-en-marcha)
 - [Manuales 📚](#Manuales)
 - [Dependencias 🔗](#dependencias)
@@ -14,7 +15,28 @@
 - [Licencia ⚖️](#licencia)
 
 ## Descripción
- 
+ El proyecto SaTix (Safe-Tickets) se ha desarrollado como proyecto de final de curso para el curso de desarrollo de aplicaciones multiplataforma en el año 2023 para el I.E.S Monte Naranco.
+
+Se basa en las necesidades del ámbito de eventos, en el cual se encuentra el problema de la reventa de entradas.
+En cuanto las tecnologías que existen actualmente en el mercado no existen una que garantice la exclusividad de dicha entrada, en la cual solo el usuario que compro la entrada no se pueda replicar o transferir. Por culpa de este hecho, existen grupos de personas que compran un número de entradas y las venden a otra gente más caras o incluso vender a dos personas la misma entrada.
+La idea principal se basa en este hecho, con la idea de garantizar a los usuarios y dueños de eventos la seguridad de una venta y gestión de entradas segura.
+
+Su principal funcionalidad es la implementación de un panel administrativo donde los dueños de eventos puedan gestionar los eventos y una aplicación móvil donde los usuarios puedan registrarse y unirse a eventos. 
+Al unirse a un evento el usuario, obtendrá una entrada dinámica con el objetivo de hacerla totalmente exclusiva en un periodo de tiempo determinado por la aplicación y de este modo evitar que se pueda duplicar.
+La aplicación genera codigos QR con identificadores que será comprobado por el sistema de SaTix en el momento que un Operario escanee el código. El operario tendrá acceso a revisar la información de la entrada en el momento de escaneo de esta. En el caso de que no sea valido el codigo o este caducado no se mostrara nada.
+
+Se recomienda visitar el apartado de [Memoria](#memoria) para revistar todo el análisis de esta aplicación, sus diagramas y pruebas realizadas.
+
+## Funcionalidades principales
+Estas son algunas de la funcionalidades principales, revisar el documento de [Memoria](#memoria) para saber en profundidad todas:
+
+- Implementación de un panel administrativo donde los dueños de eventos puedan gestionar los eventos.
+- Aplicación móvil donde los usuarios puedan registrarse y unirse a eventos.
+- Generación de entradas dinámicas y exclusivas mediante códigos QR.
+- Verificación de entradas por parte de operarios a través del escaneo de códigos QR.
+- Acceso a la información de la entrada en el momento del escaneo.
+- Restricción de duplicación de entradas y caducidad de códigos.
+
 ## Requisitos para la instalación y puesta en marcha
 | Requisitos previos                                                                                                       | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,7 +51,7 @@
 ## Manuales
  
 ## Dependencias
- 
+ - Es importante tener instalado en la máquina donde vaya a ejecutarse el SDK 17 de Java [Descargar SDK de Java]
 ## Webgrafía
 Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto:
 
