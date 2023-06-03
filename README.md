@@ -82,7 +82,9 @@ Descarga la memoria para ver toda la información del proyecto. Se incluyen los 
 ## Preview
 
 - Login
-![image](https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/6d3c4618-f605-45b1-8a7c-780aefbb1407)
+<p align="center">
+  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/6d3c4618-f605-45b1-8a7c-780aefbb1407" alt="SaTix" width="220">
+</p>
 - Gestion eventos
 ![image](https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/b7802746-bb12-462e-8555-4c0d9f245be5)
 - SaTix-Core
