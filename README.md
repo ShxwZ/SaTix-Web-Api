@@ -8,6 +8,7 @@
 - [Funcionalidades principales ⚙](#Funcionalidades-Principales)
 - [Requisitos para la instalación y puesta en marcha 🔑](#Requisitos-para-la-instalación-y-puesta-en-marcha)
 - [Dependencias 🔗](#dependencias)
+- [Preview 🖼](#Preview)
 - [Webgrafía 🌐](#Webgrafía)
 - [Memoria del proyecto 🖋](#Memoria-del-proyecto)
 - [Posibles ampliaciones 🔧](#Posibles-ampliaciones)
@@ -49,6 +50,27 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 | Comprobación de las cadenas de conexión en el archivo de configuración de la aplicación (application.properties)       | Antes de ejecutar la aplicación, asegúrate de verificar las cadenas de conexión en el archivo de configuración de la aplicación, llamado "application.properties".                                                                                                                                                                                                                                                             |
 ## Dependencias
  - Es importante tener instalado en la máquina donde vaya a ejecutarse el SDK 17 de Java [Descargar SDK de Java]
+
+## Preview
+
+- Login
+
+<p align="center">
+  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/6d3c4618-f605-45b1-8a7c-780aefbb1407" alt="Login" width="500">
+</p>
+
+- Gestion eventos
+
+<p align="center">
+  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/b7802746-bb12-462e-8555-4c0d9f245be5" alt="Gestion-eventos" width="500">
+</p>
+
+- SaTix-Core
+
+<p align="center">
+  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/9c8c92f5-3c2a-45d9-a3d4-b79f42dc240a" alt="SaTix-Core" width="500">
+</p>
+
 ## Webgrafía
 Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto:
 
@@ -78,18 +100,6 @@ Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto
 ## Memoria
 Descarga la memoria para ver toda la información del proyecto. Se incluyen los manuales de instalación y uso en la memoria:
 - [Memoria-SaTix.pdf](https://github.com/ShxwZ/SaTix-Web-Api/files/11643072/Memoria-SaTix.pdf)
-
-## Preview
-
-- Login
-<p align="center">
-  <img src="https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/6d3c4618-f605-45b1-8a7c-780aefbb1407" alt="SaTix" width="220">
-</p>
-- Gestion eventos
-![image](https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/b7802746-bb12-462e-8555-4c0d9f245be5)
-- SaTix-Core
-![image](https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/9c8c92f5-3c2a-45d9-a3d4-b79f42dc240a)
-
 
 ## Posibles ampliaciones
 
