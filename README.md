@@ -8,23 +8,26 @@
 ## Índice
 - [Descripción](#descripción)
 - [Requisitos](#requisitos)
-- [Manual de Instalación](#manual-de-instalación)
-- [Manual de usuario](#manual-de-usuario)
+- [Manuales](#Manuales)
 - [Dependencias](#dependencias)
 - [Menciones](#menciones)
 - [Licencia](#licencia)
+- [Memoria del proyecto](#Memoria-del-proyecto)
+- [Posibles ampliaciones](#Posibles-ampliaciones)
 
 ## Descripción
  
 ## Requisitos
 
-## Manual de Instalación
-
-## Manual de usuario
+## Manuales
  
 ## Dependencias
  
 ## Menciones
+
+## Memoria del proyecto
+
+## Posibles ampliaciones
 
 ## Licencia
 [![Licencia: CC BY-NC 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
