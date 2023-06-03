@@ -79,6 +79,16 @@ Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto
 Descarga la memoria para ver toda la información del proyecto. Se incluyen los manuales de instalación y uso en la memoria:
 - [Memoria-SaTix.pdf](https://github.com/ShxwZ/SaTix-Web-Api/files/11643072/Memoria-SaTix.pdf)
 
+## Preview
+
+- Login
+![image](https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/6d3c4618-f605-45b1-8a7c-780aefbb1407)
+- Gestion eventos
+![image](https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/b7802746-bb12-462e-8555-4c0d9f245be5)
+- SaTix-Core
+![image](https://github.com/ShxwZ/SaTix-Web-Api/assets/39011276/9c8c92f5-3c2a-45d9-a3d4-b79f42dc240a)
+
+
 ## Posibles ampliaciones
 
 | Ampliaciones para el Proyecto |
