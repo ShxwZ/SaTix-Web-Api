@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>SaTix - Login</title>
+    <link rel="stylesheet" th:href="@{assets/bootstrap/css/bootstrap.min.css}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&amp;display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.2/css/theme.bootstrap_4.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+    <link rel="icon" type="image/x-icon" th:href="@{/assets/img/favicon.ico}">
+</head>
+<style>
+
+</style>
+<body th:styleappend="'background: url('+@{assets/img/login-bg.svg}+') center / cover space, var(--bs-border-color-translucent);'" e style="--bs-body-bg: var(--bs-teal);">
+    <div class="container" style="position: absolute;left: 0;right: 0;top: 50%;transform: translateY(-50%);-ms-transform: translateY(-50%);-moz-transform: translateY(-50%);-webkit-transform: translateY(-50%);-o-transform: translateY(-50%);">
+        <div class="row justify-content-center">
+            <div class="col-md-10 col-lg-9 col-xl-9 col-xxl-7">
+                <div class="card shadow-lg o-hidden border-0 my-5" style="opacity: 1;filter: blur(0px);background: #f5f5f7;">
+                    <div class="card-body p-0">
+                        <div class="row">
+                            <div class="col-lg-12" style="opacity: 1;">
+                                <div class="p-5" style="opacity: 1;">
+                                    <div class="text-center"><img class="img-fluid" draggable="false" th:src="@{assets/img/logo-login.png}" style="width: 345px;margin-bottom: 18px;"></div>
+                                    <div class="text-center">
+                                        <h4 class="text-dark mb-4">Bienvenido al panel administrativo</h4>
+                                    </div>
+                                    <form class="user" th:action="@{/login}" method="post">
+                                        <div class="mb-3"><input class="form-control form-control-user" th:autofocus="true" type="text" id="username" aria-describedby="emailHelp" placeholder="Nombre de usuario" name="username" required style="text-align: center;"></div>
+                                        <div class="mb-3"><input class="form-control form-control-user" type="password" placeholder="Contraseña" name="password" required style="text-align: center;"></div>
+                                        <div class="row mb-3">
+                                            <div th:if="${errorMessage}" class="alert alert-danger text-center" role="alert" th:text="${errorMessage}"></div>
+                                            <div th:if="${logout}" class="alert alert-primary text-center" role="alert" th:text="${logout}"></div>
+                                            <div th:if="${accessDenied}" class="alert alert-warning text-center" role="alert" th:text="${accessDenied}"></div>
+                                        </div><button class="btn btn-primary d-block btn-user w-100" id="submitBtn" type="submit" style="width: 100%;background: var(--bs-green);">Iniciar sesión</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script th:src="@{assets/bootstrap/js/bootstrap.min.js}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+</body>
+
+</html>

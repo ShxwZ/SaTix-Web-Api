@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" th:replace="~{base :: base(~{::title}, ~{::#content},0)}">
+<head>
+    <meta charset="UTF-8">
+    <title>Error - SaTix</title>
+</head>
+<body>
+<div id="content">
+  <div class="container-fluid">
+    <div class="text-center mt-5">
+      <div class="error mx-auto" data-text="403">
+        <p class="m-0">404</p>
+      </div>
+      <p class="text-dark mb-5 lead">Página no encontrada o recurso no accesible</p>
+      <p class="text-black-50 mb-0">Lo sentimos, pero no se puede acceder a este sitio :(</p><!--a th:href="@{/admin}">← Volver al inicio</a-->
+    </div>
+  </div>
+</div>
+</body>
+</html>

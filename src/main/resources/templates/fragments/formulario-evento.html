@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="card-body" th:fragment="formulario-evento (text_btn)">
+    <form   method="post"
+            th:object="${evento}"
+            th:action="${evento.id} ? @{/admin/modificar-evento} : @{/admin/crear-evento}">
+        <div class="row">
+            <input type="hidden" th:field="*{id}"
+                   name="id">
+            <div class="col">
+                <div class="mb-3 form-floating">
+                    <input class="form-control" type="text" id="name" th:field="*{name}"
+                           placeholder="Mi evento" name="name" required>
+                    <label for="name">Nombre evento</label>
+                </div>
+            </div>
+            <div class="col">
+                <div class="mb-3 form-floating">
+                    <input class="form-control" type="text" id="address" th:field="*{address}"
+                           placeholder="Av. Street 23" name="address" required>
+                    <label for="address">Dirección </label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="mb-3 form-floating">
+                    <input class="form-control" type="number" id="max_assitants" th:field="*{max_assistants}"
+                           placeholder="150" name="max_assitants" required>
+                    <label for="max_assitants">Nº Máximo de asistentes</label>
+                </div>
+            </div>
+            <div class="col">
+                <div class="mb-3 form-floating">
+                    <input class="form-control" type="number" th:field="*{min_age}"
+                            id="min_age" placeholder="18" name="min_age" required>
+                    <label for="min_age">Edad&nbsp;mínima</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="mb-3 form-floating">
+                    <input class="form-control" type="datetime-local" id="start_date"  th:field="*{start_date}"
+                           name="start_date" required>
+                    <label for="start_date">Fecha de inicio</label>
+                </div>
+            </div>
+            <div class="col">
+                <div class="mb-3 form-floating">
+                    <input class="form-control" type="datetime-local" id="finish_date" th:field="*{finish_date}"
+                           name="finish_date" required>
+                    <label for="finish_date">Fecha de finalización</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="mb-3 form-floating">
+                    <textarea class="form-control h-25" type="text" id="description" rows="5" th:field="*{description}"
+                              placeholder="Evento basado en..." name="description" required></textarea>
+                    <label for="description">Descripción del evento</label>
+                </div>
+            </div>
+        </div>
+        <div class="mb-3"></div>
+        <div class="card-header py-3">
+            <button class="btn btn-primary" role="button" type="submit" style="width: 100%;background: var(--bs-green);"
+                    th:text="${text_btn}"><i class="fa fa-ticket"></i>&nbsp;
+            </button>
+        </div>
+    </form>
+</div>
+</body>
+</html>
