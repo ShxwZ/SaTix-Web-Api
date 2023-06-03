@@ -5,7 +5,7 @@
 
 ## Índice
 - [Descripción](#descripción)
-- [Requisitos](#requisitos)
+- [Requisitos para la instalación y puesta en marcha](#Requisitos-para-la-instalación-y-puesta-en-marcha)
 - [Manuales](#Manuales)
 - [Dependencias](#dependencias)
 - [Menciones](#menciones)
@@ -15,7 +15,7 @@
 
 ## Descripción
  
-## Requisitos
+## Requisitos para la instalación y puesta en marcha
 | Requisitos previos                                                                                                       | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SDK 17 de Java                                                                                                          | Se requiere el SDK 17 de Java instalado en el dispositivo donde se desea implementar la aplicación. Puedes descargarlo desde el siguiente enlace: [Descargar SDK de Java](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)                                                                                                                        |
