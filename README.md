@@ -13,6 +13,7 @@
 - [Posibles ampliaciones 🔧](#Posibles-ampliaciones)
 - [Memoria 🧠](#memoria)
 - [Licencia ⚖️](#licencia)
+- [Contacto 📞](#contacto)
 
 ## Descripción
  El proyecto SaTix (Safe-Tickets) se ha desarrollado como proyecto para el curso de desarrollo de aplicaciones multiplataforma en el año 2023 del I.E.S Monte Naranco.
@@ -104,3 +105,13 @@ Descarga la memoria para ver toda la información del proyecto. Se incluyen los 
 ## Licencia
 [![Licencia: CC BY-NC 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 Este proyecto está bajo la Licencia Creative Commons Atribución-NoComercial 4.0 Internacional. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+
+## Contacto
+Si tienes alguna pregunta o estás interesado en colaborar en el proyecto SaTix, no dudes en ponerte en contacto conmigo:
+
+- Correo Electrónico: [gabriagp02@gmail.com](mailto:gabriagp02@gmail.com)
+- LinkedIn: [Gabriel GP](https://www.linkedin.com/in/gabriel-gp/)
+
+¡Estaré encantado de hablar contigo y responder a tus consultas!
+
+
