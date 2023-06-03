@@ -8,7 +8,7 @@
 - [Requisitos para la instalación y puesta en marcha](#Requisitos-para-la-instalación-y-puesta-en-marcha)
 - [Manuales](#Manuales)
 - [Dependencias](#dependencias)
-- [Menciones](#menciones)
+- [Webgrafía](#Webgrafía)
 - [Memoria del proyecto](#Memoria-del-proyecto)
 - [Posibles ampliaciones](#Posibles-ampliaciones)
 - [Licencia](#licencia)
@@ -30,8 +30,8 @@
  
 ## Dependencias
  
-## Menciones
-Aquí se incluyen las menciones o referencias en línea relacionadas con el proyecto:
+## Webgrafía
+Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto:
 
 - Android Developers Team. (s.f.). Documentación para desarrolladores de apps. Recuperado el 2023, de [Android Developers](https://developer.android.com/docs?hl=es-419)
 - Baeldung. (s.f.). Spring Courses. Recuperado el 2023, de [Baeldung](https://www.baeldung.com/)
