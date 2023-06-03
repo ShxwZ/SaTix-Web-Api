@@ -3,8 +3,6 @@
   <img src="logo.png" alt="SaTix" width="250">
 </p>
 
----
-
 ## Índice
 - [Descripción](#descripción)
 - [Requisitos](#requisitos)
