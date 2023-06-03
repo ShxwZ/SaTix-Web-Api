@@ -60,6 +60,27 @@ Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto
 
 ## Posibles ampliaciones
 
+| Ampliaciones del Proyecto |
+| ------------------------ |
+| Sistema de filtros para las entradas y eventos en el dispositivo móvil. |
+| Implementar la funcionalidad de emitir códigos de las entradas a través de NFC y poder usarlas en controles sin necesidad de un operario presente. |
+| Añadir un registro de inicio de sesión y limitar el número máximo de inicios de sesión por dispositivo al día. |
+| Verificación de correo y número de teléfono. |
+| Restablecimiento de contraseñas. |
+| Modificar perfil del usuario. |
+| Añadir un servicio de notificación para avisar de las fechas de eventos. |
+| Añadir paginaciones a las tablas de la página web. |
+| Incluir más tiempos de cuenta para los administradores teniendo en cuenta el sistema de planes de pago mencionado en el ámbito empresarial. |
+| Incluir la verificación de la cuenta por correo y móvil, incluyendo la recuperación de contraseña. |
+| Opciones de personalización de perfil de usuario. |
+| Asistencia directa con el soporte desde el panel de administradores. |
+| Mejorar las partes visuales de las interfaces. |
+| Implementar la generación de códigos QR directamente como parte del servicio en el Back-End, sin depender de una API externa. |
+| Crear un panel para gestionar las cuentas de administradores. |
+| Agregar una pestaña para gestionar las entradas desde el panel de administradores. |
+| Migrar la web a un framework como Angular o React. |
+| Incorporar la biblioteca de Tensor Flow para verificar DNI mediante la cámara del dispositivo (mejora avanzada y de interés propio). |
+
 ## Licencia
 [![Licencia: CC BY-NC 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 Este proyecto está bajo la Licencia Creative Commons Atribución-NoComercial 4.0 Internacional. Para más detalles, consulta el archivo [LICENSE](LICENSE).
