@@ -60,7 +60,7 @@ Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto
 
 ## Posibles ampliaciones
 
-| Ampliaciones del Proyecto |
+| Ampliaciones para el Proyecto |
 | ------------------------ |
 | Sistema de filtros para las entradas y eventos en el dispositivo móvil. |
 | Implementar la funcionalidad de emitir códigos de las entradas a través de NFC y poder usarlas en controles sin necesidad de un operario presente. |
