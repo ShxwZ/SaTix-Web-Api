@@ -4,14 +4,14 @@
 </p>
 
 ## Índice
-- [Descripción](#descripción)
-- [Requisitos para la instalación y puesta en marcha](#Requisitos-para-la-instalación-y-puesta-en-marcha)
-- [Manuales](#Manuales)
-- [Dependencias](#dependencias)
-- [Webgrafía](#Webgrafía)
-- [Memoria del proyecto](#Memoria-del-proyecto)
-- [Posibles ampliaciones](#Posibles-ampliaciones)
-- [Licencia](#licencia)
+- [Descripción 📄](#descripción)
+- [Requisitos para la instalación y puesta en marcha 🔑](#Requisitos-para-la-instalación-y-puesta-en-marcha)
+- [Manuales 📚](#Manuales)
+- [Dependencias 🔗](#dependencias)
+- [Webgrafía 🌐](#Webgrafía)
+- [Memoria del proyecto 🖋](#Memoria-del-proyecto)
+- [Posibles ampliaciones 🔧](#Posibles-ampliaciones)
+- [Licencia ⚖️](#licencia)
 
 ## Descripción
  
