@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo.png" alt="SaTix" width="260">
+  <img src="logo.png" alt="SaTix" width="250">
 </p>
 
 ---
