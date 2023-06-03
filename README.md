@@ -7,7 +7,6 @@
 - [Descripción 📄](#descripción)
 - [Funcionalidades principales ⚙](Funcionalidades-Principales)
 - [Requisitos para la instalación y puesta en marcha 🔑](#Requisitos-para-la-instalación-y-puesta-en-marcha)
-- [Manuales 📚](#Manuales)
 - [Dependencias 🔗](#dependencias)
 - [Webgrafía 🌐](#Webgrafía)
 - [Memoria del proyecto 🖋](#Memoria-del-proyecto)
@@ -47,10 +46,6 @@ Estas son algunas de la funcionalidades principales, revisar el documento de [Me
 | Configuración del firewall para el puerto 9000                                                                          | Si deseas utilizar la aplicación en una red pública o privada, es necesario configurar el firewall para permitir el acceso al puerto 9000, que es el puerto utilizado por la aplicación.                                                                                                                                                                                                                                        |
 | Base de datos MySQL con base de datos "satix" y cotejamiento utf8mb4_unicode_ci                                           | Se requiere una base de datos MySQL con una base de datos llamada "satix" y el cotejamiento utf8mb4_unicode_ci. Se recomienda encarecidamente utilizar esta nomenclatura para la base de datos. En caso de que desees utilizar una nomenclatura diferente, puedes modificarla en los archivos de configuración de la aplicación, específicamente en el archivo "application.properties". |
 | Comprobación de las cadenas de conexión en el archivo de configuración de la aplicación (application.properties)       | Antes de ejecutar la aplicación, asegúrate de verificar las cadenas de conexión en el archivo de configuración de la aplicación, llamado "application.properties".                                                                                                                                                                                                                                                             |
-
-
-## Manuales
- 
 ## Dependencias
  - Es importante tener instalado en la máquina donde vaya a ejecutarse el SDK 17 de Java [Descargar SDK de Java]
 ## Webgrafía
@@ -80,6 +75,8 @@ Aquí se incluyen las referencias utilizadas para el desarrollo de este proyecto
 - W3Schools. (s.f.). Tutoriales HTML. Recuperado el 2023, de [W3Schools](https://www.w3schools.com/html/)
 
 ## Memoria
+Descarga la memoria para ver toda la información del proyecto. Se incluyen los manuales de instalación y uso en la memoria:
+- [Memoria-SaTix.pdf](https://github.com/ShxwZ/SaTix-Web-Api/files/11642909/Memoria-SaTix.pdf)
 
 ## Posibles ampliaciones
 
