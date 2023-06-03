@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="SaTix">
+  <img src="logo.png" alt="SaTix" width="60">
 </p>
 TFG Part 1
 
