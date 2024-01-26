@@ -22,54 +22,7 @@ public class Runner implements CommandLineRunner{
 
     @Override
     public void run(String... args) throws Exception {
-//        String password = "1234";
-//        User operador = new User(
-//                "SaTix-Test",
-//                new BCryptPasswordEncoder().encode(password)
-//        );
-//        userRepository.save(operador);
-//
-//        User admin = userRepository.getUserAdminByUsername("Nachin").orElse(null);
-//        AdminOperator adminOperator = new AdminOperator(operador,admin,password);
-//        adminOperatorService.createAdminOperator(adminOperator);
-
     }
 
-
-    /*@Bean
-    CommandLineRunner iniData(UserRepository userRepository){
-        return (args) -> {
-            User yo = new User(
-                    "Gabriel",
-                    "Garcia",
-                    "Pellizzón",
-                    "Shaw",
-                    "617664361",
-                    "75727300",
-                    "gabriagp02@gmail.com",
-                    "1234",
-                    User.TypeUser.ADMIN,
-                    LocalDateTime.of(2001,10,2,0,0)
-                    );
-            userRepository.save(yo);
-            userRepository.findAll().forEach(System.out::println);
-        };
-            @Bean
-    CommandLineRunner iniData(UserRepository userRepository, OperatorRepository operatorRepository) {
-        return (args) -> {
-            operatorRepository.deleteAll(operatorRepository.findAll());
-            User user = userRepository.getReferenceById(1L);
-            for (int i = 0; i < 20; i++) {
-                Operator op = new Operator(
-                        "prueba",
-                        LocalDateTime.now(),
-                        user
-                );
-                operatorRepository.save(op);
-            }
-
-        };
-    }
-    }*/
 
 }
